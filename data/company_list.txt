@@ -1,4 +1,4 @@
 JYP_Ent.,035900
-YG_Entertainment,122870
-DearU,376300
 HYBE,352820
+DearU,376300
+YG_Entertainment,122870
